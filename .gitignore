@@ -1,5 +1,8 @@
-gemma-2b-it-sum-ko/config.json
-gemma-2b-it-sum-ko/generation_config.json
-gemma-2b-it-sum-ko/model-00001-of-00002.safetensors
-gemma-2b-it-sum-ko/model-00002-of-00002.safetensors
-gemma-2b-it-sum-ko/model.safetensors.index.json
+# LoRA adapter 디렉터리
+lora_adapter/
+
+# Outputs 디렉터리
+outputs/
+
+# 모델 디렉터리
+gemma-2-2b-ko/
