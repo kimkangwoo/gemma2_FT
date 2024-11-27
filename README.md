@@ -18,11 +18,11 @@ Write a hello world program<end_of_turn>
 - <end_of_turn> : 종료 구분 기호
 
 ### 프로젝트 참가자 
-| 이름   |    깃허브 아이디    | 깃허브 
-|--------|---------------------|
-| 김강우 |      kimkangwoo     |https://github.com/kimkangwoo
-| 손병진 |    SonByeongJin     |https://github.com/SonByeongJin
-| 김민석 |        428KMS       |https://github.com/428KMS
+| 이름   |    깃허브 아이디    | 깃허브 |
+|--------|---------------------|---|
+| 김강우 |      kimkangwoo     |https://github.com/kimkangwoo|
+| 손병진 |    SonByeongJin     |https://github.com/SonByeongJin|
+| 김민석 |        428KMS       |https://github.com/428KMS|
 
 <br><br>
 ---
